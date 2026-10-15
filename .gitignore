@@ -1,0 +1,10 @@
+# Segredos e arquivos locais: nunca enviar para o GitHub
+.env
+.env.*
+!.env.example
+supabase/.temp/
+supabase/.branches/
+.vercel/
+node_modules/
+.DS_Store
+Thumbs.db
